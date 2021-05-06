@@ -238,6 +238,11 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p>
+  <strong>Registration:</strong>
+  The workshop is free, but registrations are limited to 40 people. To register, please go to <a href="https://www.nmepscor.org/events/june-2021-library-carpentry">https://www.nmepscor.org/events/june-2021-library-carpentry</a>
+</p>
+
 {% comment %}
 WHO CAN ATTEND?
 
@@ -431,3 +436,11 @@ Please check the "Setup" page of
 [the lesson site]({{ site.lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+
+<div>
+  <h3>Acknowledgment</h3>
+  <p>This workshop is funded through the National Science Foundation EPSCoR Cooperative Agreement OIA-1757207. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+  </p>
+  <img src="./assets/img/RII4_LOGO_EPSCoR-01.png" alt="NM EPSCoR Logo" width="300">&nbsp;&nbsp;
+  <img src="./assets/img/NSF_4-Color_bitmap_Logo.png" alt="NSF Logo" width="100">
+</div>
